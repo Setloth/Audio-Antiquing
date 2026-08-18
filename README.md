@@ -5,4 +5,4 @@ This project was aimed at doing the reverse of antique audio restoration, rather
 Audio interface looks something like:
 <img width="794" height="552" alt="image" src="https://github.com/user-attachments/assets/46ece4ce-9bdc-4dbf-bb10-47a720e456a4" />
 
-More detailed information on the project is hosted on [Computer Music Fundamentals Final Paper.pdf](my project document).
+More detailed information on the project is hosted on [/Computer Music Fundamentals Final Paper.pdf](my project document).
