@@ -5,6 +5,6 @@ This project was aimed at doing the reverse of antique audio restoration, rather
 Audio interface looks something like:
 <img width="794" height="552" alt="image" src="https://github.com/user-attachments/assets/46ece4ce-9bdc-4dbf-bb10-47a720e456a4" />
 
-More detailed information on the project is hosted on [my project documentation](https://github.com/Setloth/Audio-Antiquing/blob/f91898390ffcfdf8329cbfad51c10868edb649ac/Computer%20Music%20Fundamentals%20Final%20Paper.pdf).
+More detailed information on the project is hosted on [my project documentation](https://github.com/Setloth/Audio-Antiquing/blob/main/Computer%20Music%20Fundamentals%20Final%20Paper.pdf).
 
-You can also find the paper on antiquing that informed my degradation techniques [here](https://github.com/Setloth/Audio-Antiquing/blob/f91898390ffcfdf8329cbfad51c10868edb649ac/Antiquing%20Paper.pdf).
+You can also find the paper on antiquing that informed my degradation techniques [here](https://github.com/Setloth/Audio-Antiquing/blob/main/Antiquing%20Paper.pdf).
